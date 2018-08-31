@@ -1,0 +1,257 @@
+[
+    [
+        "D:\\sf_tests\\telegram-test\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535710865675,
+            "changeTime": 1535710865675,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535710865676,
+            "changeTime": 1535710865676,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711621359,
+            "changeTime": 1535711621359,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535710865676,
+            "changeTime": 1535710865676,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test",
+        {
+            "state": "n",
+            "sourcePath": "D:\\sf_tests\\telegram-test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711185759,
+            "changeTime": 1535711185759,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c\\TestCustomObject__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c\\TestCustomObject__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2158,
+            "modifiedTime": 1535711621345,
+            "changeTime": 1535711621345,
+            "contentHash": "b842e685fe011d3ff75c124ba6bda9d79c530e96"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c\\fields\\TestNumber__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c\\fields\\TestNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1535711621349,
+            "changeTime": 1535711621349,
+            "contentHash": "3f0655c4ba69616a7b14b87827f3c74c28eafc30"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\layouts\\TestCustomObject__c-TestCustomObject Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\layouts\\TestCustomObject__c-TestCustomObject Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2091,
+            "modifiedTime": 1535711621354,
+            "changeTime": 1535711621354,
+            "contentHash": "649a6f912be486358d7516c67939318b753579d6"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\tabs\\TestCustomObject__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\tabs\\TestCustomObject__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1535711621356,
+            "changeTime": 1535711621356,
+            "contentHash": "69912039ef5c0feb96853dc7b54eb8684c066c13"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4789,
+            "modifiedTime": 1535711621361,
+            "changeTime": 1535711621361,
+            "contentHash": "debb26014d8418b5b3db959bf1cf4881e0e8ce85"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4451,
+            "modifiedTime": 1535711621365,
+            "changeTime": 1535711621365,
+            "contentHash": "10cee1b22b171cef8459a066563639fe9bb7c73b"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4451,
+            "modifiedTime": 1535711621370,
+            "changeTime": 1535711621370,
+            "contentHash": "10cee1b22b171cef8459a066563639fe9bb7c73b"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18210,
+            "modifiedTime": 1535711621382,
+            "changeTime": 1535711621382,
+            "contentHash": "ce73728b0d9a6303347c06a0a09d10f6ea3abf86"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711621345,
+            "changeTime": 1535711621345,
+            "contentHash": "814ef310d652c80f2e15a397da8c88f0ff1e918a"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711621340,
+            "changeTime": 1535711621340,
+            "contentHash": "ba3973d8aefefadc19c62ac733653a59614b168d"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\objects\\TestCustomObject__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711621346,
+            "changeTime": 1535711621346,
+            "contentHash": "e7f9e59419ba87048074420175c6fa457d371753"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711621353,
+            "changeTime": 1535711621353,
+            "contentHash": "21b180217c471cb873ee504417db235598117c9e"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711621356,
+            "changeTime": 1535711621356,
+            "contentHash": "a280653bce61f773ad813fed61365b688160687a"
+        }
+    ],
+    [
+        "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\sf_tests\\telegram-test\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535711621378,
+            "changeTime": 1535711621378,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
